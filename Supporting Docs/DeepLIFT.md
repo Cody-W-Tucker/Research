@@ -72,7 +72,7 @@ DeepLIFT is distinct from other explainability methods due to its focus on activ
 
 | **Knowledge Item**        | **Description**                    | **Relevance/Relationship**                      |
 | ------------------------- | ---------------------------------- | ----------------------------------------------- |
-| [[Explainable AI (XAI)]]           | Local interpretability method       | Complementary to DeepLIFT in providing model insights. |
+| [[xAI]]           | Local interpretability method       | Complementary to DeepLIFT in providing model insights. |
 | [[SHAP]]           | Feature importance using Shapley values | Extends DeepLIFT with broader model support.[^4] |
 | [[Layer-wise Relevance Propagation (LRP)]] | Feature attribution method        | Similarities with DeepLIFT in attributing feature importance.[^2] |
 

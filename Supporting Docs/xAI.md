@@ -1,7 +1,8 @@
 ---
 title: "Explainability in AI: A Unified Framework for Ethics, Trust, and Practical Integration"
 dateCreated: 2025-02-06
-dateModified: 2025-04-02
+dateModified: 2025-04-30
+aliases: [Explainable AI, XAI]
 ---
 
 # Explainability in AI: A Unified Framework for Ethics, Trust, and Practical Integration

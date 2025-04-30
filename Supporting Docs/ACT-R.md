@@ -1,7 +1,7 @@
 ---
 title: Unified Framework for ACT-R and Cognitive Architecture Insights
 dateCreated: 2025-02-06
-dateModified: 2025-04-02
+dateModified: 2025-04-30
 ---
 
 # Unified Framework for ACT-R and Cognitive Architecture Insights

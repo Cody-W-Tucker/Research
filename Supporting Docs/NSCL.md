@@ -74,7 +74,7 @@ Competing ideas include purely neural or symbolic approaches, each with their st
 | ------------------------- | ---------------------------------- | ----------------------------------------------- |
 | [[MRKL]]         | Modular neuro-symbolic architecture | Enhances task delegation and reasoning in cognitive assistants |
 | [[SOAR]]                 | Cognitive architecture for problem-solving | Provides a framework for integrating NSCL in decision-making processes |
-| [[Explainable AI (XAI)]] | Techniques for AI transparency and interpretability | Essential for ensuring ethical and reliable operation of NSCL |
+| [[xAI]] | Techniques for AI transparency and interpretability | Essential for ensuring ethical and reliable operation of NSCL |
 
 ### Visualization
 

@@ -1,7 +1,7 @@
 ---
 title: Human-Inspired Memory, Learning & Decision in Neuro-Symbolic AI — **2024 Playbook**
 dateCreated: 2025-04-29
-dateModified: 2025-04-29
+dateModified: 2025-04-30
 ---
 
 # Human-Inspired Memory, Learning & Decision in Neuro-Symbolic AI — **2024 Playbook**
@@ -14,6 +14,7 @@ The 2024 state-of-the-art confirms that truly *human-centred* AI emerges when fi
 3. **SOAR-style chunking for consolidation**
 4. **Neuro-symbolic grounding for interpretable recall**
 5. **Antonovsky's Sense-of-Coherence (SOC) audits**
+
 This playbook explains *why* each pillar matters, *how* they connect, and *what* to build next.
 
 ---

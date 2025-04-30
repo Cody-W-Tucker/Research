@@ -70,7 +70,7 @@ Alternative approaches to AI alignment include **Inverse Reinforcement Learning 
 
 | **Knowledge Item**        | **Description**                    | **Relevance/Relationship**                      |
 | ------------------------- | ---------------------------------- | ----------------------------------------------- |
-| [[Explainable AI (XAI)]] | Techniques for understanding AI decisions | Complements debate protocols by providing transparency into AI reasoning. |
+| [[xAI]] | Techniques for understanding AI decisions | Complements debate protocols by providing transparency into AI reasoning. |
 | [[Value Alignment Research]] | Ensuring AI systems reflect human ethics | Similar goal to debate protocols but uses different methods like IRL and CIRL. |
 | [[Anthropic's Constitutional AI]] | Principles guiding AI behavior to be ethical and harmless | Supports the ethical considerations in debate-style protocols.[^3] |
 

@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence
 dateCreated: 2025-01-18
-dateModified: 2025-04-29
+dateModified: 2025-04-30
 aliases: [Artificial Intelligence]
 ---
 
@@ -9,10 +9,10 @@ aliases: [Artificial Intelligence]
 
 ## Origin
 
-The origins of Artificial Intelligence ([[AI]]) can be traced back to the mid-20th century when scientists and researchers began conceptualizing machines that could mimic human thought processes. It emerged primarily out of the need to solve complex problems more efficiently than human capabilities alone could achieve. Initial [[AI]] frameworks were developed to address specific problems such as performing calculations more quickly and automating repetitive tasks in computing. The famous Dartmouth Conference in 1956, often considered the founding moment of [[AI]], was organized to explore the feasibility of constructing a machine that could simulate every aspect of human intelligence.
+The origins of Artificial Intelligence (AI) can be traced back to the mid-20th century when scientists and researchers began conceptualizing machines that could mimic human thought processes. It emerged primarily out of the need to solve complex problems more efficiently than human capabilities alone could achieve. Initial AI frameworks were developed to address specific problems such as performing calculations more quickly and automating repetitive tasks in computing. The famous Dartmouth Conference in 1956, often considered the founding moment of AI, was organized to explore the feasibility of constructing a machine that could simulate every aspect of human intelligence.
 
 **Evolution:**
-Since its inception, [[AI]] has evolved dynamically through various paradigms like symbolic [[AI]], [[Machine Learning]], and deep learning. Key milestones include the creation of [[AI]] languages like LISP in the 1960s, the advent of expert systems in the 1970s and 80s, and the rapid expansion of [[AI]] capabilities post-2000 with advancements in data processing and algorithmic performance. In recent years, [[AI]] has expanded beyond simple problem-solving to include applications like natural language processing, image recognition, and autonomous systems.
+Since its inception, AI has evolved dynamically through various paradigms like symbolic AI, [[Machine Learning]], and deep learning. Key milestones include the creation of AI languages like LISP in the 1960s, the advent of expert systems in the 1970s and 80s, and the rapid expansion of AI capabilities post-2000 with advancements in data processing and algorithmic performance. In recent years, AI has expanded beyond simple problem-solving to include applications like natural language processing, image recognition, and autonomous systems.
 
 ## Possibilities
 
@@ -21,12 +21,12 @@ Since its inception, [[AI]] has evolved dynamically through various paradigms li
 **Positive Outcomes:**
 1. **Enhanced Productivity:** AI can automate mundane tasks, freeing up human resources for higher-order thinking and creativity.
 2. **Improved Decision-Making:** AI systems can process vast amounts of data to provide insights, aiding better decision-making in industries like healthcare, finance, and logistics.
-3. **Personalization:** [[AI]] can tailor content and services to individual preferences, enhancing user experiences in areas such as e-commerce and digital marketing.
+3. **Personalization:** AI can tailor content and services to individual preferences, enhancing user experiences in areas such as e-commerce and digital marketing.
 
 **Negative Outcomes:**
-1. **Job Displacement:** Automation through [[AI]] may lead to job displacement in various sectors, particularly affecting roles that involve repetitive tasks.
-2. **Ethical Concerns:** Issues such as bias in [[AI]] algorithms and privacy concerns arise because [[AI]] systems can perpetuate existing biases or misuse sensitive data.
-3. **Over-Reliance on Technology:** Dependency on [[AI]] systems may lead to a reduction in critical thinking and decision autonomy.
+1. **Job Displacement:** Automation through AI may lead to job displacement in various sectors, particularly affecting roles that involve repetitive tasks.
+2. **Ethical Concerns:** Issues such as bias in AI algorithms and privacy concerns arise because AI systems can perpetuate existing biases or misuse sensitive data.
+3. **Over-Reliance on Technology:** Dependency on AI systems may lead to a reduction in critical thinking and decision autonomy.
 
 ## Actual Outcomes
 
@@ -95,11 +95,8 @@ This analysis presents a structured and detailed narrative of the AI knowledge i
 ## Project Link
 
 [[Create Knowledge Management System]]
-
 [[LLM]]
-
 [[Text Splitting or Chunking for Embedding]]
-
 [[Vector Embedding]]
 
 # Artificial Intelligence Reading List

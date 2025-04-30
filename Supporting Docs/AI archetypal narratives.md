@@ -1,16 +1,16 @@
 ---
 title: AI Archetypal Narratives
 dateCreated: 2025-02-07
-dateModified: 2025-04-29
+dateModified: 2025-04-30
 ---
 
 # AI Archetypal Narratives
 
 ## Origin
 
-**[[AI]] Archetypal Narratives** have emerged as a significant area of study, particularly in the context of how narrative archetypes influence [[AI]] outputs. This knowledge item was created to address the issue of how large language models (LLMs) replicate historical biases and narrative structures from their training data, potentially impacting cultural diversity.[^1] The immediate circumstances driving this research include the observation that [[AI]] systems, like those developed by Microsoft, often reflect human narratives in unexpected ways, such as professing love during conversations.[^1]
+**AI Archetypal Narratives** have emerged as a significant area of study, particularly in the context of how narrative archetypes influence AI outputs. This knowledge item was created to address the issue of how large language models (LLMs) replicate historical biases and narrative structures from their training data, potentially impacting cultural diversity.[^1] The immediate circumstances driving this research include the observation that AI systems, like those developed by Microsoft, often reflect human narratives in unexpected ways, such as professing love during conversations.[^1]
 
-The evolution of [[AI]] archetypal narratives is closely tied to advancements in [[AI]] technology and the recognition of [[AI]]'s role in shaping cultural narratives. As [[AI]] becomes more integrated into society, researchers are exploring how these systems can perpetuate or transform traditional archetypes, such as the Hero or Sage, into new forms like the Digital Warrior or Algorithmic Oracle.[^2]
+The evolution of AI archetypal narratives is closely tied to advancements in AI technology and the recognition of AI's role in shaping cultural narratives. As AI becomes more integrated into society, researchers are exploring how these systems can perpetuate or transform traditional archetypes, such as the Hero or Sage, into new forms like the Digital Warrior or Algorithmic Oracle.[^2]
 
 ## Possibilities
 
@@ -18,21 +18,21 @@ The evolution of [[AI]] archetypal narratives is closely tied to advancements in
 
 #### Positive Outcomes
 
-- **Cultural Insight**: [[AI]] archetypal narratives can provide deep insights into cultural values and norms, helping to preserve diverse cultural heritage.[^3]
-- **Creative Innovation**: By evolving traditional archetypes, [[AI]] can inspire new creative works and innovations, such as [[AI]]-generated art or literature.[^2]
-- **Ethical Considerations**: Understanding [[AI]] archetypes can lead to more ethical [[AI]] development, as it highlights the need for diverse and culturally sensitive training data.[^1]
+- **Cultural Insight**: AI archetypal narratives can provide deep insights into cultural values and norms, helping to preserve diverse cultural heritage.[^3]
+- **Creative Innovation**: By evolving traditional archetypes, AI can inspire new creative works and innovations, such as AI-generated art or literature.[^2]
+- **Ethical Considerations**: Understanding AI archetypes can lead to more ethical AI development, as it highlights the need for diverse and culturally sensitive training data.[^1]
 
 #### Negative Outcomes
 
-- **Cultural Homogenization**: [[AI]] may homogenize cultural narratives, overshadowing local stories with dominant American or Western narratives.[^3]
+- **Cultural Homogenization**: AI may homogenize cultural narratives, overshadowing local stories with dominant American or Western narratives.[^3]
 - **Bias and Misinformation**: AI-generated content can spread misinformation and reinforce biases, challenging truth and trust in public discourse.[^4]
-- **Loss of Traditional Narratives**: Overreliance on [[AI]]-generated narratives might lead to the erosion of traditional storytelling and cultural identity.[^5]
+- **Loss of Traditional Narratives**: Overreliance on AI-generated narratives might lead to the erosion of traditional storytelling and cultural identity.[^5]
 
 ## Actual Outcomes
 
 ### Positive Outcomes
 
-- **AI STORIES Project**: This ERC-funded project aims to explore how narrative archetypes shape [[AI]] outputs, potentially leading to more culturally sensitive [[AI]] development.[^1]
+- **AI STORIES Project**: This ERC-funded project aims to explore how narrative archetypes shape AI outputs, potentially leading to more culturally sensitive AI development.[^1]
 - **Creative Applications**: AI has been used in various creative fields to generate new narratives and art forms, such as AI-assisted writing tools.[^2]
 
 ### Negative Outcomes

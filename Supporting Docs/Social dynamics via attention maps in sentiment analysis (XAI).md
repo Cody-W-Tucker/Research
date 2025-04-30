@@ -73,7 +73,7 @@ Competing ideas include alternative methods for enhancing model interpretability
 | **Knowledge Item**        | **Description**                    | **Relevance/Relationship**                      |
 | ------------------------- | ---------------------------------- | ----------------------------------------------- |
 | [[Multimodal Sentiment Analysis]] | Combines text and image data for sentiment analysis | Utilizes attention maps to enhance model performance |
-| [[Explainable AI (XAI)]] | Techniques for making AI models more interpretable | Attention maps are a key component of XAI in sentiment analysis |
+| [[xAI]] | Techniques for making AI models more interpretable | Attention maps are a key component of XAI in sentiment analysis |
 | [[Social Media Monitoring]] | Uses AI to track and analyze social media data | Can benefit from attention maps for more accurate sentiment analysis |
 
 ### Visualization

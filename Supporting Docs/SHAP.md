@@ -42,7 +42,7 @@ dateModified: 2025-04-02
 
 ### Resonance
 
-SHAP connects with other explainable AI techniques like [[Explainable AI (XAI)]] and [[Feature Importance]], which also aim to provide insights into model behavior. Its principles resonate with broader concepts in [[Game Theory]] and [[Cooperative Learning]], highlighting the importance of attributing contributions in complex systems.
+SHAP connects with other explainable AI techniques like [[xAI]] and [[Feature Importance]], which also aim to provide insights into model behavior. Its principles resonate with broader concepts in [[Game Theory]] and [[Cooperative Learning]], highlighting the importance of attributing contributions in complex systems.
 
 ### Distinction
 
@@ -73,7 +73,7 @@ While SHAP offers detailed feature-level explanations, it faces challenges from 
 | **Knowledge Item**        | **Description**                    | **Relevance/Relationship**                      |
 | ------------------------- | ---------------------------------- | ----------------------------------------------- |
 | [[Game Theory]]           | Principles of cooperation and contribution attribution | Underlies SHAP's method for assigning feature importance |
-| [[Explainable AI (XAI)]] | Techniques for model interpretability | SHAP is a key component of XAI, enhancing model transparency |
+| [[xAI]] | Techniques for model interpretability | SHAP is a key component of XAI, enhancing model transparency |
 | [[Feature Importance]]   | Methods for evaluating feature impact on models | Complementary to SHAP, offering different insights into feature contributions |
 
 ### Visualization
@@ -157,9 +157,9 @@ While SHAP offers a powerful framework for model interpretability, it faces chal
 
 | **Knowledge Item**        | **Description**                    | **Relevance/Relationship**                      |
 | ------------------------- | ---------------------------------- | ----------------------------------------------- |
-| [[Explainable AI (XAI)]]           | Local Interpretable Model-Agnostic Explanations | Alternative method for model interpretability, often compared to SHAP.[^1] |
+| [[xAI]]           | Local Interpretable Model-Agnostic Explanations | Alternative method for model interpretability, often compared to SHAP.[^1] |
 | [[DeepLIFT]]             | Method for attributing feature importance | Another technique unified under SHAP's framework.[^1] |
-| [[Explainable AI (XAI)]] | Broader field encompassing SHAP and other interpretability techniques | Contextualizes SHAP within the broader goal of enhancing AI transparency.[^3] |
+| [[xAI]] | Broader field encompassing SHAP and other interpretability techniques | Contextualizes SHAP within the broader goal of enhancing AI transparency.[^3] |
 
 ### Visualization
 

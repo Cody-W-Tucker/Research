@@ -1,7 +1,7 @@
 ---
 title: AI Ethics
 dateCreated: 2025-01-18
-dateModified: 2025-04-02
+dateModified: 2025-04-30
 aliases: [Ethical AI]
 ---
 
@@ -11,11 +11,11 @@ aliases: [Ethical AI]
 
 ### Immediate Circumstances
 
-The field of [[AI Ethics]] emerged out of necessity as artificial intelligence technologies began to permeate various realms of daily life, prompting ethical concerns about their implications and applications. The immediate purpose was to explore and establish frameworks that could guide the humane and responsible development and deployment of [[AI]], addressing issues like privacy, bias, accountability, and fairness. A significant catalyst for the creation of [[AI Ethics]] was the rapid progress in [[AI]] capabilities marked by milestones such as the revitalization of neural networks and the increased availability of big data.
+The field of [[AI Ethics]] emerged out of necessity as artificial intelligence technologies began to permeate various realms of daily life, prompting ethical concerns about their implications and applications. The immediate purpose was to explore and establish frameworks that could guide the humane and responsible development and deployment of AI, addressing issues like privacy, bias, accountability, and fairness. A significant catalyst for the creation of [[AI Ethics]] was the rapid progress in AI capabilities marked by milestones such as the revitalization of neural networks and the increased availability of big data.
 
 ### Evolution
 
-[[AI Ethics]] has evolved significantly since its inception, expanding from a niche academic discourse to a critical element of technology deployment strategies globally. Key historical milestones include the 2016 release of the [[Asilomar AI Principles]], which laid the groundwork for ethical considerations in [[AI]] development, and the EU's General Data Protection Regulation (GDPR), which set stringent guidelines on data use and protection. Over time, [[AI Ethics]] has broadened to examine not just the immediate implications of [[AI]] technologies, but also their potential long-term impacts, such as labor displacement and existential risks.
+[[AI Ethics]] has evolved significantly since its inception, expanding from a niche academic discourse to a critical element of technology deployment strategies globally. Key historical milestones include the 2016 release of the [[Asilomar AI Principles]], which laid the groundwork for ethical considerations in AI development, and the EU's General Data Protection Regulation (GDPR), which set stringent guidelines on data use and protection. Over time, [[AI Ethics]] has broadened to examine not just the immediate implications of AI technologies, but also their potential long-term impacts, such as labor displacement and existential risks.
 
 ## Possibilities
 
@@ -23,14 +23,14 @@ The field of [[AI Ethics]] emerged out of necessity as artificial intelligence t
 
 #### Positive Outcomes
 
-- **Enhanced Transparency**: Implementing ethical guidelines ensures that [[AI]] systems operate transparently, allowing users to understand and trust [[AI]]-driven decisions.
-- **Fairness and Inclusion**: [[AI Ethics]] promotes the development of [[AI]] systems that are free from bias, encouraging equitable treatment across diverse demographics.
-- **Sustainability**: Ethical [[AI]] practices advocate for the development of technology that contributes to sustainable environmental and social progress.
+- **Enhanced Transparency**: Implementing ethical guidelines ensures that AI systems operate transparently, allowing users to understand and trust AI-driven decisions.
+- **Fairness and Inclusion**: [[AI Ethics]] promotes the development of AI systems that are free from bias, encouraging equitable treatment across diverse demographics.
+- **Sustainability**: Ethical AI practices advocate for the development of technology that contributes to sustainable environmental and social progress.
 
 #### Negative Outcomes
 
 - **Slower Innovation**: The imposition of ethical constraints might slow the research and development process, potentially stymieing technological advancements.
-- **Economic Disparities**: Misaligned [[AI]] applications could exacerbate economic inequalities if ethical principles aren't uniformly applied across different regions or industries.
+- **Economic Disparities**: Misaligned AI applications could exacerbate economic inequalities if ethical principles aren't uniformly applied across different regions or industries.
 - **Surveillance Risks**: Privacy-related ethical lapses could lead to more invasive surveillance systems.
 
 ## Actual Outcomes
