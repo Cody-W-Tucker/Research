@@ -8,7 +8,7 @@ dateModified: 2025-04-02
 
 ## Origin
 
-**Social dynamics via attention maps in sentiment analysis ([[XAI]])** emerged as a response to the need for more nuanced and interpretable sentiment analysis, particularly in complex social media environments. This approach combines advanced techniques from [[Explainable AI]] ([[XAI]]) with attention mechanisms to highlight important regions or features in data that contribute to sentiment. The immediate circumstances driving its creation include the challenges of understanding and predicting human emotions from text and images, especially when these data are intertwined with social dynamics.
+**Social dynamics via attention maps in sentiment analysis ([[xAI]])** emerged as a response to the need for more nuanced and interpretable sentiment analysis, particularly in complex social media environments. This approach combines advanced techniques from [[Explainable AI]] ([[xAI]]) with attention mechanisms to highlight important regions or features in data that contribute to sentiment. The immediate circumstances driving its creation include the challenges of understanding and predicting human emotions from text and images, especially when these data are intertwined with social dynamics.
 
 Historically, sentiment analysis has evolved from simple text-based polarity detection to more sophisticated multimodal approaches, incorporating images and videos. The integration of attention maps has been pivotal in enhancing the interpretability of these models by focusing on the most relevant features or regions that influence sentiment predictions.
 

@@ -71,7 +71,7 @@ Pure LLMs excel at language but falter on factuality and logic. Hybrid systems f
 |---------|-----------|--------------|-----------------|
 | [[RAG]] | Embed-index-retrieve pipelines | Enterprise Q&A, medical search | Source quality, retrieval attacks |
 | [[MRKL]] | Function-calling, tool routing | Data-analysis agents | Error handing, orchestration overhead |
-| Neuro-Symbolic | Differentiable logic, DeepProbLog, [[knowledge graphs]] | Few-shot QA, legal compliance | Engineering overhead, scaling rules |
+| Neuro-Symbolic | Differentiable logic, DeepProbLog, [[Knowledge Graphs]] | Few-shot QA, legal compliance | Engineering overhead, scaling rules |
 
 ### Interconnections
 

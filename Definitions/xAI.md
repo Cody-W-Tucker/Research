@@ -9,20 +9,20 @@ aliases: [Explainable AI, XAI]
 
 ## Unified Narrative
 
-Explainable AI ([[XAI]]) emerged out of necessity to counteract the opacity of advanced [[AI]] systems, particularly deep learning models often labeled as "black boxes." This need arose due to concerns surrounding **trust, fairness, and accountability** in [[AI]]-driven decision-making across critical sectors such as **healthcare, finance, and law**. Over time, [[XAI]] has evolved not only as a technical field but also as an **ethical framework**, intersecting with cognitive science, regulatory compliance, and user trust.
+Explainable AI ([[xAI]]) emerged out of necessity to counteract the opacity of advanced [[AI]] systems, particularly deep learning models often labeled as "black boxes." This need arose due to concerns surrounding **trust, fairness, and accountability** in [[AI]]-driven decision-making across critical sectors such as **healthcare, finance, and law**. Over time, [[xAI]] has evolved not only as a technical field but also as an **ethical framework**, intersecting with cognitive science, regulatory compliance, and user trust.
 
 ### Core Concepts & Techniques
 
-[[XAI]] methodologies can be categorized into **model-specific** and **model-agnostic** approaches. Techniques such as **LIME (Local Interpretable Model-agnostic Explanations)** and **[[SHAP]] (SHapley Additive Explanations)** provide post-hoc explanations by approximating complex models with interpretable surrogates. These mechanisms have enabled **bias detection, regulatory compliance, and safety improvements**, but they also introduce **computational costs and interpretability challenges** due to their simplistic or locally constrained nature.
+[[xAI]] methodologies can be categorized into **model-specific** and **model-agnostic** approaches. Techniques such as **LIME (Local Interpretable Model-agnostic Explanations)** and **[[SHAP]] (SHapley Additive Explanations)** provide post-hoc explanations by approximating complex models with interpretable surrogates. These mechanisms have enabled **bias detection, regulatory compliance, and safety improvements**, but they also introduce **computational costs and interpretability challenges** due to their simplistic or locally constrained nature.
 
-At the intersection of **philosophy, cognitive science, and [[AI]]**, [[XAI]] resonates with **neuro-symbolic [[AI]]**, which combines symbolic reasoning with deep learning to provide natural explainability within [[AI]] systems. Additionally, in cognitive architectures like **[[SOAR]] and [[ACT-R]]**, insights from [[XAI]] can contribute to **introspective [[AI]] systems** capable of explaining their reasoning in human-like terms.
+At the intersection of **philosophy, cognitive science, and [[AI]]**, [[xAI]] resonates with **neuro-symbolic [[AI]]**, which combines symbolic reasoning with deep learning to provide natural explainability within [[AI]] systems. Additionally, in cognitive architectures like **[[SOAR]] and [[ACT-R]]**, insights from [[xAI]] can contribute to **introspective [[AI]] systems** capable of explaining their reasoning in human-like terms.
 
 ### Practical & Ethical Challenges
 
-Despite its advancements, [[XAI]] faces several challenges:
-1. **Oversimplification & Misrepresentation** – Many [[XAI]] techniques provide approximations, not true explanations, which can lead to misleading interpretations.
-2. **Bias & Trust Issues** – While [[XAI]] helps uncover biases, biased data can still corrupt [[AI]] decisions. [[XAI]] alone does not eliminate discrimination.
-3. **Regulatory and Ethical Dilemmas** – Standardizing [[XAI]] across industries remains a challenge, particularly for **global regulations and policy alignment**.
+Despite its advancements, [[xAI]] faces several challenges:
+1. **Oversimplification & Misrepresentation** – Many [[xAI]] techniques provide approximations, not true explanations, which can lead to misleading interpretations.
+2. **Bias & Trust Issues** – While [[xAI]] helps uncover biases, biased data can still corrupt [[AI]] decisions. [[xAI]] alone does not eliminate discrimination.
+3. **Regulatory and Ethical Dilemmas** – Standardizing [[xAI]] across industries remains a challenge, particularly for **global regulations and policy alignment**.
 
 Furthermore, ethical justification frameworks for AI depend on the capability of **XAI-backed models to provide human-understandable rationales**. Ethical AI frameworks integrate XAI's transparency alongside **value alignment research**, ensuring that AI systems not only explain their decisions but also adhere to principles of fairness, inclusivity, and moral reasoning.
 

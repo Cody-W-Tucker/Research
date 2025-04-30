@@ -19,7 +19,7 @@ The CRMN evolved from earlier models like "perceptual reality monitoring" by Hak
 #### Positive Outcomes
 
 - **Enhanced Cognitive Abilities**: CRMN can improve cognitive functions by enhancing metacognition, allowing individuals to better distinguish between internal mental states and external reality.
-- **Efficient Learning**: By understanding how the brain reduces dimensionality in learning, CRMN can inform more efficient [[machine learning]] algorithms that require fewer training samples.
+- **Efficient Learning**: By understanding how the brain reduces dimensionality in learning, CRMN can inform more efficient [[Machine Learning]] algorithms that require fewer training samples.
 - **Neurological Insights**: Provides insights into neural mechanisms, potentially aiding in the diagnosis and treatment of cognitive disorders.
 
 #### Negative Outcomes
@@ -41,7 +41,7 @@ The CRMN evolved from earlier models like "perceptual reality monitoring" by Hak
 
 ## Resonance
 
-CRMN resonates with concepts in **[[personal knowledge management systems]]** like Obsidian, where networks of interconnected knowledge can enhance understanding and distinction between internal thoughts and external information.[^3] It also relates to **reality monitoring in media and society**, where distinguishing between true and false information is crucial.[^4]
+CRMN resonates with concepts in **[[Personal Knowledge Management Systems]]** like Obsidian, where networks of interconnected knowledge can enhance understanding and distinction between internal thoughts and external information.[^3] It also relates to **reality monitoring in media and society**, where distinguishing between true and false information is crucial.[^4]
 
 ## Distinction
 
