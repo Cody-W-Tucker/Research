@@ -41,17 +41,17 @@ When braided into one loop, the Integrated Epistemic Knowledge Framework (IEKF) 
 
 ## Conceptual Overview
 
-| Layer | Core Concepts & 2024 Nuance | Common Methods | Illustrative Uses | Open Challenges |
-|------|-----------------------------|----------------|------------------|-----------------|
-| Ethical Bedrock | Tradition, meta-wisdom, cultural intelligence | Value-sensitive design, cross-cultural review boards | Unilever Sustainable Living, GDPR-compliant LKMS | Tokenism, ethics-washing |
-| Reflexive Epistemology | Epistemic humility, bias & uncertainty dashboards | Fairlearn, WhyLabs, red-teaming | IBM system cards, algorithmic audits | Analysis paralysis, unclear ownership |
-| Value-Aware Filtering | Intrinsic vs extrinsic worth, dual-score ranking | Human-in-the-loop scoring, qualitative overlays | ESG dashboards, Coursera adaptivity | Metric gaming, feedback bias loops |
-| Semantic Structure | Ontologies, KG, SHACL alignment | RDF/OWL, graph embeddings | Siemens industrial KG, drug discovery | Ontology drift, maintenance cost |
-| AI Augmentation | LLM co-pilots, embeddings, RAG | Prompt engineering, hallucination guards | GPT Q&A bots, sentiment-aware journals | Hallucination, over-reliance |
-| LKMS (Dynamic Flow) | Stream capture, versioning, privacy-by-design | Event sourcing, differential privacy | Adaptive intranets, data trusts | Complexity, data breaches |
-| Personal KM | Compass + C-O-D-E | Progressive summarisation, timed sprints | BASB cohorts, project notebooks | Digital hoarding, tool churn |
-| Collective Intelligence | Crowdsourcing, open innovation, CQ facilitation | Swarm workshops, wiki governance | Wikipedia, crisis-mapping | Echo chambers, coordination overhead |
-| Learning & Development | Behaviourism↔Constructivism↔Bloom + AQAL + CT | RL tutors, scaffolded peer review | Duolingo RL, VR sims, integral design sprints | Measuring higher-order thinking, autonomy erosion |
+| Layer                   | Core Concepts & 2024 Nuance                       | Common Methods                                       | Illustrative Uses                                | Open Challenges                                   |
+| ----------------------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- |
+| Ethical Bedrock         | Tradition, meta-wisdom, cultural intelligence     | Value-sensitive design, cross-cultural review boards | Unilever Sustainable Living, GDPR-compliant LKMS | Tokenism, ethics-washing                          |
+| Reflexive Epistemology  | Epistemic humility, bias & uncertainty dashboards | Fairlearn, WhyLabs, red-teaming                      | IBM system cards, algorithmic audits             | Analysis paralysis, unclear ownership             |
+| Value-Aware Filtering   | Intrinsic vs extrinsic worth, dual-score ranking  | Human-in-the-loop scoring, qualitative overlays      | ESG dashboards, Coursera adaptivity              | Metric gaming, feedback bias loops                |
+| Semantic Structure      | Ontologies, KG, SHACL alignment                   | RDF/OWL, graph embeddings                            | Siemens industrial KG, drug discovery            | Ontology drift, maintenance cost                  |
+| AI Augmentation         | LLM co-pilots, embeddings, RAG                    | Prompt engineering, hallucination guards             | GPT Q&A bots, sentiment-aware journals           | Hallucination, over-reliance                      |
+| LKMS (Dynamic Flow)     | Stream capture, versioning, privacy-by-design     | Event sourcing, differential privacy                 | Adaptive intranets, data trusts                  | Complexity, data breaches                         |
+| Personal KM             | Compass + C-O-D-E                                 | Progressive summarisation, timed sprints             | BASB cohorts, project notebooks                  | Digital hoarding, tool churn                      |
+| Collective Intelligence | Crowdsourcing, open innovation, CQ facilitation   | Swarm workshops, wiki governance                     | Wikipedia, crisis-mapping                        | Echo chambers, coordination overhead              |
+| Learning & Development  | Behaviourism↔Constructivism↔Bloom + AQAL + CT     | RL tutors, scaffolded peer review                    | Duolingo RL, VR sims, integral design sprints    | Measuring higher-order thinking, autonomy erosion |
 
 ---
 
