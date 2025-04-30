@@ -1,17 +1,10 @@
 ---
-title: UNIFIED LEARNING FRAMEWORK
+title: Cognition to Alignment
 dateCreated: 2025-04-29
 dateModified: 2025-04-29
 ---
 
-# UNIFIED LEARNING FRAMEWORK
-
-## "From Cognition to Alignment: Emerging Themes in Modern AI" – 2024 Edition
-
-> Read sequentially (foundational ➜ advanced) **or** dip in modularly.
-> Each topic keeps the *Version 1* scaffold while folding in the newest nuance from *Version 2*.
-
----
+# Cognition to Alignment
 
 ## 🗺️ Framework Map
 
@@ -25,9 +18,9 @@ graph TD
 
 ---
 
-# 1 ▸ Machine Consciousness & Cognitive Modeling
+## Machine Consciousness & Cognitive Modeling
 
-## Unified Narrative
+### Unified Narrative
 
 Consciousness is framed as an **emergent, holistic process** where tightly-coupled subsystems *integrate*, *broadcast* and *predict* information.
 
@@ -38,7 +31,7 @@ Consciousness is framed as an **emergent, holistic process** where tightly-coupl
 
 Practical pay-off → More sample-efficient, explainable and human-compatible models.
 
-## Conceptual Overview
+### Conceptual Overview
 
 | Concept | Methods & Techniques | Real-World Uses | Open Gaps |
 | --- | --- | --- | --- |
@@ -48,13 +41,13 @@ Practical pay-off → More sample-efficient, explainable and human-compatible mo
 | Emergence & Holism | Mutual-info, causal abstraction graphs | Interpretability dashboards | Quantifying "level of emergence" |
 | Quantum-Inspired | Photonic ops; annealers | Low-latency edge AI | Empirical falsifiability |
 
-## Interconnections
+### Interconnections
 
 - Richer world-models feed **Value Alignment**.
 - Debate protocols act as an **external** workspace.
 - Consensus datasets provide population-level priors.
 
-## Actionable Guide
+### Actionable Guide
 
 1. **Learning Path**
 	 - Read *Surfing Uncertainty* ➜ *Consciousness & the Brain*.
@@ -68,9 +61,9 @@ Practical pay-off → More sample-efficient, explainable and human-compatible mo
 
 ---
 
-# 2 ▸ Value Alignment & AI Ethics
+## Value Alignment & [[AI Ethics]]
 
-## Unified Narrative
+### Unified Narrative
 
 Alignment now bridges **technical levers** (CIRL, RLHF, debate) with **institutional guard-rails** (GDPR, ISO/IEC 42001).  New work stresses:
 
@@ -78,33 +71,33 @@ Alignment now bridges **technical levers** (CIRL, RLHF, debate) with **instituti
 - **Neuro-Symbolic Alignment** – Fuse causal graphs with LLM embeddings.
 - **Outcome-Based Evidence** – Lessons from biased and successful real deployments.
 
-## Conceptual Overview
+### Conceptual Overview
 
 | Core Concept | Techniques | Use Cases | 2024 Challenges |
 | --- | --- | --- | --- |
 | Value Alignment | CIRL, reward-modelling, neuro-symbolic IRL | Med-bots, drones | Evolving & plural values |
-| AI Ethics Frameworks | GDPR risk tiers, impact audits | Hiring, credit | Global divergence |
+| [[AI Ethics]] Frameworks | GDPR risk tiers, impact audits | Hiring, credit | Global divergence |
 | Explainability | Concept activation, *emergence heat-maps* | Legal discovery | Privacy vs transparency |
 | Human-in-the-Loop | Preference elicitation GUIs | Content curation | Cost of feedback |
 | Governance & Policy | ISO/IEC 42001, NIST RMF | National AI strategies | Automated enforcement |
 
-## Interconnections
+### Interconnections
 
 - Debate logs + Consensus summaries supply scalable oversight data.
 - Cognitive models simulate stakeholder impacts pre-deployment.
 
-## Actionable Guide
+### Actionable Guide
 
-1. **Guided Learning** – *Human Compatible* → "AI Ethics & Society".
+1. **Guided Learning** – *Human Compatible* → "[[AI Ethics]] & Society".
 2. **Practical Audit** – Run AIF360 on the *adult-income* classifier.
 3. **Policy Link-Up** – Map ISO/IEC 42001 clauses to ML-ops controls.
 4. **Deep-Dive** – Study *Neuro-Symbolic Alignment* (NeurIPS 2024).
 
 ---
 
-# 3 ▸ Debate-Style Protocols for AI Safety
+## Debate-Style Protocols for AI Safety
 
-## Unified Narrative
+### Unified Narrative
 
 Structured **adversarial debates** surface reasoning while minimising human oversight. Latest prototypes add:
 
@@ -112,7 +105,7 @@ Structured **adversarial debates** surface reasoning while minimising human over
 - **Automated Judge Ensembles** – RLHF-tuned mixtures cut oversight cost.
 - **Honesty Regularisers** – Penalise persuasive but false rhetoric.
 
-## Conceptual Overview
+### Conceptual Overview
 
 | Concept | Implementation | Applications | Current Gaps |
 | --- | --- | --- | --- |
@@ -122,13 +115,13 @@ Structured **adversarial debates** surface reasoning while minimising human over
 | Honesty Regs. | Truthfulness bonuses, citations | Fact-checking | Detect subtle omissions |
 | CoT-Enforced Debate | Mandatory scratch-pads | Medical diagnostics | >64 k context |
 
-## Interconnections
+### Interconnections
 
 - Produces labelled transcripts for **Consensus** engines.
 - Acts as empirical alignment test-bed.
 - Relies on sophisticated world-models.
 
-## Actionable Guide
+### Actionable Guide
 
 1. **Prototype** – Two GPT-4-turbo agents debate a math problem; you judge.
 2. **Scale** – Fine-tune an LLM judge on "rigour vs sophistry" data; test bias by swapping human/LLM judges.
@@ -140,9 +133,9 @@ Structured **adversarial debates** surface reasoning while minimising human over
 
 ---
 
-# 4 ▸ Consensus Systems & Knowledge Synthesis
+## Consensus Systems & Knowledge Synthesis
 
-## Unified Narrative
+### Unified Narrative
 
 Next-gen pipelines treat consensus as a **multi-agent, competitive-plus-cooperative** process:
 
@@ -153,7 +146,7 @@ Next-gen pipelines treat consensus as a **multi-agent, competitive-plus-cooperat
 
 Outputs feed human comprehension *and* alignment modules with up-to-date societal priors.
 
-## Conceptual Overview
+### Conceptual Overview
 
 | Component | Technique | 2024 Deliverables | Challenges |
 | --- | --- | --- | --- |
@@ -163,13 +156,13 @@ Outputs feed human comprehension *and* alignment modules with up-to-date societa
 | Narrative Crafting | RAG + rhetorical prompts | Exec summaries w/ cites | Faithfulness |
 | Real-Time Streams | Kafka / RSS triggers | Live consensus graphs | Latency vs cost |
 
-## Interconnections
+### Interconnections
 
 - Supplies value-distribution priors to **Alignment**.
 - Analyses debate logs for argument diversity.
 - Provides literature surveillance for **Cognitive Modeling**.
 
-## Actionable Guide
+### Actionable Guide
 
 1. **5-Step Pipeline**
 	 a. Load docs → b. Split → c. Embed (text-embedding-3-large) → d. Cluster (HDBSCAN) → e. Summarise with stance-aware RAG.
@@ -178,7 +171,7 @@ Outputs feed human comprehension *and* alignment modules with up-to-date societa
 
 ---
 
-# Integrated Road-Map & Next Steps
+## Integrated Road-Map & Next Steps
 
 1. **Start** with Topic 1 for emergent cognitive principles.
 2. **Parallel** Topic 2, linking controls to ISO/IEC 42001.
@@ -187,7 +180,7 @@ Outputs feed human comprehension *and* alignment modules with up-to-date societa
 
 ---
 
-## 📚 Curated Resources
+### 📚 Curated Resources
 
 | Type | Item |
 | --- | --- |
@@ -200,4 +193,4 @@ Outputs feed human comprehension *and* alignment modules with up-to-date societa
 ---
 
 > [!tldr]
-This consolidated 2024 framework marries *emergence-based cognition*, *neuro-symbolic alignment*, *automated debate oversight* and *multi-agent consensus* into a single, action-ready roadmap—guiding you from foundational theory to state-of-the-art practice in safe, human-aligned AI.
+This consolidated framework marries *emergence-based cognition*, *neuro-symbolic alignment*, *automated debate oversight* and *multi-agent consensus* into a single, action-ready roadmap—guiding you from foundational theory to state-of-the-art practice in safe, human-aligned AI.
