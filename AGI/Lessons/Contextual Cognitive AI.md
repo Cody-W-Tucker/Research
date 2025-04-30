@@ -1,7 +1,7 @@
 ---
 title: Contextual Cognitive AI (CC-AI)
 dateCreated: 2025-04-29
-dateModified: 2025-04-29
+dateModified: 2025-04-30
 ---
 
 # Contextual Cognitive AI (CC-AI)
@@ -14,7 +14,6 @@ It fuses:
 - **Contextual Object Theory (COT)** to bind each entity (e.g., *bank*) to its shifting surrounds (finance vs. river).
 - **Collaborative Cognitive Architecture (CCA)** so multiple agents—human, software, IoT—share and update that context in real time.
 
-2024 highlights
 - Rooted in cognitive-science stacks such as **SOAR** and **ACT-R**, CC-AI is now the *front-end* of many neuro-symbolic pipelines, pre-filtering observations before rule-based reasoning.
 - Documented lifts: ‑-18 % better first-pass issue resolution in customer care; +12 % F1 in radiology diagnosis.
 - New concerns: hyper-fast context churn, cultural nuance encoding, privacy leakage, and bias drift.

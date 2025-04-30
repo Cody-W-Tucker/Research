@@ -1,7 +1,7 @@
 ---
 title: Neuro-Symbolic AI
 dateCreated: 2025-04-28
-dateModified: 2025-04-28
+dateModified: 2025-04-30
 ---
 
 # Neuro-Symbolic AI

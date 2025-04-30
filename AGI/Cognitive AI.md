@@ -1,7 +1,7 @@
 ---
 title: 🧠 Cognitive AI Playbook
 dateCreated: 2025-04-29
-dateModified: 2025-04-29
+dateModified: 2025-04-30
 ---
 
 # 🧠 Cognitive AI Playbook
@@ -23,26 +23,25 @@ Expanded Lessons
 
 # Overview
 
-## 1️⃣ Contextual Cognitive AI (CC-AI)
+## [[Contextual Cognitive AI]]
 
 ### 1.1 Unified Narrative
 
 Deep learning spots patterns; CC-AI recognizes **situations**—asking *who, where, when, why?*
 It fuses:
-1. **Statistical perception** → neural nets harvest raw signals.
-2. **Contextual Object Theory (COT)** → word- & scene-sense disambiguation (bank $ finance vs bank $ river).
-3. **Collaborative Cognitive Architecture (CCA)** → humans, LLMs & IoT devices co-maintain a live context graph.
 
-Field reports (2024): –18 % call-centre escalations, +12 % F1 in radiology. Remaining blockers: sub-ms context churn, cultural nuance, privacy & bias drift.
+1. **Statistical perception** → neural nets harvest raw signals.
+2. **Contextual Object Theory ([[COT]])** → word- & scene-sense disambiguation (bank $ finance vs bank $ river).
+3. **Collaborative Cognitive Architecture ([[CCA]])** → humans, LLMs & IoT devices co-maintain a live context graph.
 
 ### 1.2 Conceptual Overview
 
-| Element | Methods / Assets | Example Uses | Current Gaps |
-|---------|------------------|--------------|--------------|
-| **Context graphs** | Neo4j, LangChain retrievers, **SOAR episodic buffer** | Retail chatbots, adaptive tutoring | < 1 s refresh, cross-cultural nuance |
-| **Contextual embeddings** | Adapter-tuned LLM vectors | Multilingual help-desks | Drift, token cost |
-| **Neuro-symbolic pipeline** | SOAR / ACT-R pre-filter → rules | Fraud detection, surgical robots | Tooling maturity, rule alignment |
-| **Privacy & bias guards** | Differential privacy, causal audits, **EU-AI-Act risk tiers** | GDPR dashboards | Fine-grained trade-off knobs |
+| Element                     | Methods / Assets                                              | Example Uses                       | Current Gaps                         |
+| --------------------------- | ------------------------------------------------------------- | ---------------------------------- | ------------------------------------ |
+| **Context graphs**          | Neo4j, LangChain retrievers, **SOAR episodic buffer**         | Retail chatbots, adaptive tutoring | < 1 s refresh, cross-cultural nuance |
+| **Contextual embeddings**   | Adapter-tuned LLM vectors                                     | Multilingual help-desks            | Drift, token cost                    |
+| **Neuro-symbolic pipeline** | SOAR / ACT-R pre-filter → rules                               | Fraud detection, surgical robots   | Tooling maturity, rule alignment     |
+| **Privacy & bias guards**   | Differential privacy, causal audits, **EU-AI-Act risk tiers** | GDPR dashboards                    | Fine-grained trade-off knobs         |
 
 ### 1.3 Interconnections
 
