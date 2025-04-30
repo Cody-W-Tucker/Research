@@ -1,10 +1,10 @@
 ---
-title: Integrated Epistemic Knowledge Framework
+title: Integrated Epistemic Knowledge Framework (IEKF)
 dateCreated: 2025-04-29
-dateModified: 2025-04-29
+dateModified: 2025-04-30
 ---
 
-# Integrated Epistemic Knowledge Framework
+# Integrated Epistemic Knowledge Framework (IEKF)
 
 *A living blueprint for building AI-accelerated, ethically grounded, continuously learning knowledge ecosystems.*
 
@@ -23,7 +23,7 @@ dateModified: 2025-04-29
 
 *"What counts as knowledge today?"*
 
-Humanity's oldest question—**How do we know what is true and worthwhile?**—now plays out amid cloud GPUs, algorithmic opacity and cultural cross-currents. Seven (now nine-layer) strands once treated separately have fused into a single epistemic stack:
+Humanity's oldest question—**How do we know what is true and worthwhile?**—now plays out amid cloud GPUs, algorithmic opacity and cultural cross-currents. Nine strands once treated separately have fused into a single epistemic stack:
 
 1. **Ethical Bedrock & Meta-Wisdom** – cross-cultural guard-rails and centuries of cognitive compression.
 2. **Reflexive Epistemology & Meta-Knowledge** – dashboards that audit *how* we know, exposing bias, uncertainty and provenance gaps.
@@ -35,7 +35,7 @@ Humanity's oldest question—**How do we know what is true and worthwhile?**—n
 8. **Collective Intelligence & Open Innovation** – crowds and cross-cultural panels diversify both data *and* critique.
 9. **Learning Sciences & Developmental Lenses** – Behaviourism→Constructivism, Bloom, Integral Theory and Constructor Theory ensure systems are pedagogically sound *and* physically possible.
 
-When braided into one loop, the IEKF delivers **faster, safer decisions and a workforce that gets smarter rather than overwhelmed**.
+When braided into one loop, the Integrated Epistemic Knowledge Framework (IEKF) delivers **faster, safer decisions and a workforce that gets smarter rather than overwhelmed**.
 
 ---
 
