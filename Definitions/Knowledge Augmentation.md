@@ -1,7 +1,7 @@
 ---
 title: Augmenting Knowledge with AI
 dateCreated: 2025-01-18
-dateModified: 2025-04-02
+dateModified: 2025-05-01
 ---
 
 # Augmenting Knowledge with AI
