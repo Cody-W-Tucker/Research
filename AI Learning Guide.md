@@ -1,7 +1,7 @@
 ---
 title: "Unified Learning Framework: From Foundations to Value-Aligned, Hybrid & Metacognitive AI"
 dateCreated: 2025-04-28
-dateModified: 2025-04-30
+dateModified: 2025-05-03
 ---
 
 # Unified Learning Framework: From Foundations to Value-Aligned, Hybrid & Metacognitive AI
@@ -208,5 +208,3 @@ Modules 1-6 supply the building blocks; [[AGI]] is the integrative layer that mu
 4. **Audit & Share** – Publish explanation cards and bias reports; contribute to open benchmarks or code repos.
 
 Follow this path and you will progress from [[Machine Learning|ML]] apprentice to architect of hybrid, value-aligned, [[xAI|explainable AI]] systems—grounded in both technical skill and ethical responsibility.
-
-[[AI Learning Framework]]
