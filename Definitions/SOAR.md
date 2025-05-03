@@ -1,10 +1,10 @@
 ---
-title: SOAR
+title: State, Operator, And Result (SOAR)
 dateCreated: 2025-02-06
-dateModified: 2025-04-02
+dateModified: 2025-05-03
 ---
 
-# SOAR
+# State, Operator, And Result (SOAR)
 
 ## Origin
 
