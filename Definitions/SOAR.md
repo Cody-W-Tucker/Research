@@ -8,9 +8,9 @@ dateModified: 2025-05-03
 
 ## Origin
 
-**[[SOAR]]**, a cognitive architecture, was originally developed by John Laird, Allen Newell, and Paul Rosenbloom at Carnegie Mellon University. It was created to model human cognition and support general intelligent agents capable of performing a wide range of tasks, including decision-making, problem-solving, and natural-language understanding.[^1] [[SOAR]]'s initial development began as John Laird's thesis in 1983, with the goal of creating a system that could encode, use, and learn various types of knowledge.[^1]
+**SOAR**, a cognitive architecture, was originally developed by John Laird, Allen Newell, and Paul Rosenbloom at Carnegie Mellon University. It was created to model human cognition and support general intelligent agents capable of performing a wide range of tasks, including decision-making, problem-solving, and natural-language understanding.[^1] SOAR's initial development began as John Laird's thesis in 1983, with the goal of creating a system that could encode, use, and learn various types of knowledge.[^1]
 
-Over time, [[SOAR]] has evolved significantly. One of its key milestones was the development of **R1-Soar**, which demonstrated [[SOAR]]'s ability to scale to moderate-size problems by configuring DEC computers.[^1] Another significant milestone was the integration of **reinforcement learning** and **semantic memory** into [[SOAR]], enhancing its learning capabilities.[^2]
+Over time, SOAR has evolved significantly. One of its key milestones was the development of **R1-Soar**, which demonstrated SOAR's ability to scale to moderate-size problems by configuring DEC computers.[^1] Another significant milestone was the integration of **reinforcement learning** and **semantic memory** into SOAR, enhancing its learning capabilities.[^2]
 
 ## Possibilities
 
@@ -18,20 +18,20 @@ Over time, [[SOAR]] has evolved significantly. One of its key milestones was the
 
 #### Positive Outcomes
 
-- **Enhanced Problem-Solving**: [[SOAR]]'s ability to reason through goals and subgoals makes it effective in complex problem-solving scenarios, enhancing productivity and decision-making.[^3]
-- **Improved Human-Machine Interaction**: [[SOAR]]'s natural language understanding and complex reasoning capabilities make it suitable for applications like chatbots and virtual assistants, improving user experience.[^3]
-- **Cognitive Modeling**: [[SOAR]] is used to model human cognition, providing insights into human decision-making processes and cognitive behaviors.[^3]
+- **Enhanced Problem-Solving**: SOAR's ability to reason through goals and subgoals makes it effective in complex problem-solving scenarios, enhancing productivity and decision-making.[^3]
+- **Improved Human-Machine Interaction**: SOAR's natural language understanding and complex reasoning capabilities make it suitable for applications like chatbots and virtual assistants, improving user experience.[^3]
+- **Cognitive Modeling**: SOAR is used to model human cognition, providing insights into human decision-making processes and cognitive behaviors.[^3]
 
 #### Negative Outcomes
 
-- **Complexity and Scalability**: [[SOAR]]'s modular structure, while beneficial, can become overly complex, making it challenging to scale for very large applications without significant computational resources.[^1]
-- **Dependence on Knowledge Encoding**: The effectiveness of [[SOAR]] depends heavily on the quality and completeness of the encoded knowledge, which can be time-consuming and costly to develop.[^1]
+- **Complexity and Scalability**: SOAR's modular structure, while beneficial, can become overly complex, making it challenging to scale for very large applications without significant computational resources.[^1]
+- **Dependence on Knowledge Encoding**: The effectiveness of SOAR depends heavily on the quality and completeness of the encoded knowledge, which can be time-consuming and costly to develop.[^1]
 
 ## Actual Outcomes
 
 ### Positive Outcomes
 
-- **Virtual Humans and Game AIs**: [[SOAR]] has been successfully used in simulating virtual humans and developing AI agents for games like StarCraft and Minecraft, showcasing its ability to integrate complex reasoning and spatial reasoning.[^1]
+- **Virtual Humans and Game AIs**: SOAR has been successfully used in simulating virtual humans and developing AI agents for games like StarCraft and Minecraft, showcasing its ability to integrate complex reasoning and spatial reasoning.[^1]
 - **NTD-Soar**: This simulation of the NASA Test Director demonstrated SOAR's capability in integrating multiple cognitive capabilities, such as natural-language processing and problem-solving.[^1]
 
 ### Negative Outcomes
@@ -69,11 +69,12 @@ SOAR is distinct from other architectures due to its focus on general problem-so
 
 ### Knowledge Expansion Table
 
-| **Knowledge Item**        | **Description**                    | **Relevance/Relationship**                      |
-| ------------------------- | ---------------------------------- | ----------------------------------------------- |
-| [[ACT-R]]                | Cognitive architecture for human cognition | Similarities and differences with SOAR in cognitive modeling |
-| [[CLARION]]              | Dual-process cognitive architecture    | Comparison with SOAR's problem-solving approach |
-| [[LLM]]| Models for natural language processing  | Integration with SOAR for enhanced language capabilities |
+| Knowledge Item | Description                                                        | Relevance/Relationship                                                              |
+| -------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| [[ACT-R]]      | Cognitive architecture for human cognition                         | Similarities and differences with SOAR in cognitive modeling                        |
+| [[CLARION]]    | Dual-process cognitive architecture                                | Comparison with SOAR's problem-solving approach                                     |
+| [[LLM]]        | Models for natural language processing                             | Integration with SOAR for enhanced language capabilities                            |
+| [[ReAct]]      | Reasoning and Acting model combining chain-of-thought and tool use | Relevant to SOAR for exploring interactive reasoning and decision-making mechanisms |
 
 ### Visualization
 
